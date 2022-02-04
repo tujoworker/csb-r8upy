@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "https://tujoworker.github.io/csb-r8upy/static/js/main.e8d9a8b2.chunk.js",
+    "main.js.map": "https://tujoworker.github.io/csb-r8upy/static/js/main.e8d9a8b2.chunk.js.map",
+    "runtime-main.js": "https://tujoworker.github.io/csb-r8upy/static/js/runtime-main.4783148b.js",
+    "runtime-main.js.map": "https://tujoworker.github.io/csb-r8upy/static/js/runtime-main.4783148b.js.map",
+    "static/css/2.bc6d5798.chunk.css": "https://tujoworker.github.io/csb-r8upy/static/css/2.bc6d5798.chunk.css",
+    "static/js/2.fe1fbf03.chunk.js": "https://tujoworker.github.io/csb-r8upy/static/js/2.fe1fbf03.chunk.js",
+    "static/js/2.fe1fbf03.chunk.js.map": "https://tujoworker.github.io/csb-r8upy/static/js/2.fe1fbf03.chunk.js.map",
+    "index.html": "https://tujoworker.github.io/csb-r8upy/index.html",
+    "static/css/2.bc6d5798.chunk.css.map": "https://tujoworker.github.io/csb-r8upy/static/css/2.bc6d5798.chunk.css.map",
+    "static/js/2.fe1fbf03.chunk.js.LICENSE.txt": "https://tujoworker.github.io/csb-r8upy/static/js/2.fe1fbf03.chunk.js.LICENSE.txt",
+    "static/media/dnb-ui-core.min.css": "https://tujoworker.github.io/csb-r8upy/static/media/DNBMono-Regular.44317dd8.ttf",
+    "static/media/dnb-ui-components.min.css": "https://tujoworker.github.io/csb-r8upy/static/media/DNBMono-Skeleton-Regular.736b2343.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4783148b.js",
+    "static/css/2.bc6d5798.chunk.css",
+    "static/js/2.fe1fbf03.chunk.js",
+    "static/js/main.e8d9a8b2.chunk.js"
+  ]
+}
